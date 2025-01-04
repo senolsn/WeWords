@@ -1,0 +1,8 @@
+{
+  "apiUrl": "http://localhost:50505/api/",
+  "authUrl": "http://192.168.15.241:8120/api/",
+  "keys": {
+    "tokenKey": "jwtToken",
+    "langKey": "lang"
+  }
+}

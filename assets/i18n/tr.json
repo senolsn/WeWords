@@ -1,0 +1,137 @@
+{
+  "DASHBOARD": {
+    "BASLIK": "Dashboard",
+    "UYE_SAYISI":"Üyeler",
+    "KITAP_SAYISI":"Kitaplar",
+    "YAZAR_SAYISI":"Yazarlar",
+    "YAYINEVI_SAYISI":"Yayınevleri",
+    "KATEGORI_SAYISI":"Kategoriler",
+    "ODUNC_SAYISI":"Ödünç Verilen Kitaplar",
+    "GECIKMIS_SAYISI":"Gecikmiş Kitaplar",
+    "OKUNAN_KITAP_SAYISI":"Okunan Kitap Sayısı"
+  },
+  "TANIMLAR": {
+    "BASLIK":"Tanımlar",
+    "YAZAR_TANIM": {
+      "BASLIK": "Yazar Tanım",
+      "ADI": "Yazar Adı",
+      "YAZAR_SOYADI": "Yazar Soyadı",
+      "EKLE_DIALOG_BASLIK": "Yeni Yazar Ekle",
+      "GUNCELLE_DIALOG_BASLIK": "Yazar Güncelle",
+      "YAZAR_ADI_VAL_MIN": "Yazar adı minimum 2 karakter içermelidir.",
+      "YAZAR_SOYADI_VAL_MIN": "Yazar adı minimum 2 karakter içermelidir.",
+      "YAZAR_ADI_VAL_MAX": "Yazar adı maksimum "
+    },
+    "KATEGORI_TANIM":{
+      "BASLIK":"Kategori Tanım",
+      "ADI":"Kategori Adı",
+      "EKLE_DIALOG_BASLIK": "Yeni Kategori Ekle",
+      "GUNCELLE_DIALOG_BASLIK": "Kategori Güncelle",
+      "KATEGORI_ADI_VAL_MIN": "Kategori adı minimum 2 karakter içermelidir.",
+      "KATEGORI_ADI_VAL_MAX": "Yazar adı maksimum 50 karakter olmalıdır. "
+    },
+    "CEVIRMEN_TANIM":{
+      "BASLIK":"Çevirmen Tanım",
+      "ADI":"Çevirmen Adı",
+      "SOYADI":"Çevirmen Soyadı",
+      "EKLE_DIALOG_BASLIK": "Yeni Çevirmen Ekle",
+      "GUNCELLE_DIALOG_BASLIK": "Çevirmen Güncelle",
+      "CEVIRMEN_ADI_VAL_MIN": "Çevirmen adı minimum 2 karakter içermelidir.",
+      "CEVIRMEN_ADI_VAL_MAX": "Çevirmen adı maksimum 50 karakter olmalıdır. ",
+      "CEVIRMEN_SOYADI_VAL_MIN": "Çevirmen soyadı minimum 2 karakter içermelidir.",
+      "CEVIRMEN_SOYADI_VAL_MAX": "Çevirmen soyadı maksimum 50 karakter olmalıdır. "
+    },
+    "DIL_TANIM":{
+      "BASLIK":"Dil Tanım",
+      "ADI":"Dil Adı",
+      "EKLE_DIALOG_BASLIK": "Yeni Dil Ekle",
+      "GUNCELLE_DIALOG_BASLIK": "Dil Güncelle",
+      "DIL_ADI_VAL_MIN": "Dil adı minimum 2 karakter içermelidir.",
+      "DIL_ADI_VAL_MAX": "Dil adı maksimum 50 karakter olmalıdır. "
+    },
+    "YAYINEVI_TANIM":{
+      "BASLIK":"Yayınevi Tanım",
+      "ADI":"Yayınevi Adı",
+      "EKLE_DIALOG_BASLIK": "Yeni Yayınevi Ekle",
+      "GUNCELLE_DIALOG_BASLIK": "Yayınevi Güncelle",
+      "YAYINEVI_ADI_VAL_MIN": "Yayınevi adı minimum 2 karakter içermelidir.",
+      "YAYINEVI_ADI_VAL_MAX": "Yayınevi adı maksimum 50 karakter olmalıdır. "
+    },
+    "KONUM_TANIM":{
+      "BASLIK":"Konum Tanım",
+      "ADI":"Konum Adı",
+      "EKLE_DIALOG_BASLIK": "Yeni Konum Ekle",
+      "GUNCELLE_DIALOG_BASLIK": "Konum Güncelle",
+      "KONUM_ADI_VAL_MIN": "Konum minimum 2 karakter içermelidir.",
+      "KONUM_ADI_VAL_MAX": "Konum maksimum 50 karakter olmalıdır. "
+    },
+    "KITAP_TANIM":{
+      "BASLIK":"Kitap Tanım",
+      "ADI":"Kitap Adı",
+      "SAYFA_SAYISI":"Sayfa Sayısı",
+      "ISBN":"ISBN",
+      "YAYINLANMA_TARIHI":"Yayın Tarihi",
+      "CILT":"Cilt No",
+      "STOK":"Stok Sayısı",
+      "DURUMU":"Durumu",
+      "EKLE_DIALOG_BASLIK": "Yeni Kitap Ekle",
+      "GUNCELLE_DIALOG_BASLIK": "Kitap Güncelle",
+      "KITAP_ADI_VAL_MIN": "Kitap minimum 2 karakter içermelidir.",
+      "KITAP_ADI_VAL_MAX": "Kitap maksimum 50 karakter olmalıdır. ",
+      "DEMIRBAS_NO":"Demirbaş No"
+    }
+  },
+  "ODUNC_ISLEMLERI":{
+    "BASLIK":"Ödünç İşlemleri",
+    "ODUNC_VER":"Ödünç Kitap Ver",
+    "ODUNC_AL":"Ödünç Kitap Al",
+    "KULLANICI":"Kullanıcı Adı",
+    "DIALOG_MESAJ":"Ödünç alma işlemini onaylıyor musunuz ?",
+    "ODUNC_ISLEM_MESAJ":"Ödünç Verme İşlemi Başarılı.",
+    "TESLIM_ALINMA_TARIHI":"Ödünç Alma Tarihi",
+    "DURUM":"Durum",
+    "TESLIM_TARIHI":"Teslim Etme Tarihi"
+  },
+  "UYE_ISLEMLERI":{
+    "BASLIK":"Üye İşlemleri",
+    "UYE_BILGILERI":"Üye Bilgileri",
+    "AD_SOYAD":"Ad Soyad",
+    "TC":"TC Kimlik No",
+    "TELEFON":"Telefon No",
+    "EMAIL":"Email",
+    "UYE_LISTESI":"Üye Listesi"
+  },
+  "RAPORLAR":{
+    "BASLIK":"Raporlar",
+    "GECIKMIS_KITAPLAR":{
+      "BASLIK":"Gecikmiş Kitaplar"
+    },
+    "UYE_KITAP_GECMISI":{
+      "BASLIK":"Üye Kitap Geçmişi"
+    }
+  },
+  "AYARLAR":{
+    "BASLIK":"Ayarlar",
+    "MAIL":"Bildirim Maili",
+    "SIFRE":"Şifre",
+    "HATIRLATMA_SURESİ":"Hatırlatma Süresi",
+    "HATIRLATMA_BASLIK":"Hatırlatma Mail Başlığı",
+    "HATIRLATMA_MAIL":"Hatırlatma Mail İçeriği",
+    "GECIKME_SURESI":"Gecikme Süresi",
+    "GECIKME_BASLIK":"Gecikme Mail Başlığı",
+    "GECIKME_MAIL":"Gecikme Mail İçeriği",
+    "KITAP_TESLIM_SURESI":"Kitap Teslim Süresi",
+    "CEZA_SISTEMI":"Ceza Sistemi",
+    "AYAR_GUNCELLE":"Ayarlar başarılı bir şekilde güncellendi!"
+  },
+  "GLOBAL": {
+    "REQUIRED_ERROR": "Bu alanın girilmesi zorunludur.",
+    "KAYDET":"Kaydet",
+    "SUCCESS":"Başarılı!",
+    "DELETE_CONFIRMATION":"Kaydı silmek istediğinize emin misiniz?",
+    "YES":"Evet",
+    "NO":"Hayır",
+    "WARNING":"Dikkat!",
+    "SELECT_DOCUMENT":"Döküman Seçiniz"
+  }
+}
