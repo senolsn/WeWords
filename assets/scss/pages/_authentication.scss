@@ -31,7 +31,6 @@
 }
 
 .auth-one-bg{
-    background-image: url("../../images/book-1283865_1920.jpg");
     background-position: center;
     background-size: cover;
 
@@ -97,14 +96,6 @@
 
 .auth-bg-cover{
     background: $auth-bg-cover;
-
-    > .bg-overlay{
-        background-image: url("../../images/cover-pattern.png");
-        background-position: center;
-        background-size: cover;
-        opacity: 1;
-        background-color: transparent;
-    }
 
     .footer{
         color: rgba($white, .5);

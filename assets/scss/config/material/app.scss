@@ -80,9 +80,6 @@ File: Main Css File
 @import "../../plugins/quilljs";
 @import "../../plugins/gridjs";
 @import "../../plugins/listjs";
-@import "../../plugins/apexcharts";
-@import "../../plugins/chartjs";
-@import "../../plugins/echarts";
 @import "../../plugins/google-map";
 @import "../../plugins/autocomplete";
 @import "../../plugins/vector-maps";
@@ -101,26 +98,11 @@ File: Main Css File
 
 // Pages
 @import "../../pages/authentication";
-@import "../../pages/dashboard";
-@import "../../pages/timeline";
-@import "../../pages/gallery";
 @import "../../pages/errors";
 @import "../../pages/profile";
-@import "../../pages/sitemap";
-@import "../../pages/team";
-@import "../../pages/coming-soon";
 @import "../../pages/search-results";
-@import "../../pages/ecommerce";
 @import "../../pages/invoice";
-@import "../../pages/chat";
-@import "../../pages/email";
-@import "../../pages/kanban";
-@import "../../pages/landing";
-@import "../../pages/nft-landing";
 @import "../../pages/file-manager";
-@import "../../pages/to-do";
-@import "../../pages/jobs";
-@import "../../pages/job-landing";
 
 // Angular Custom Scss
 @import "./angular-custom.scss";
